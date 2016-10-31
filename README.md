@@ -4,11 +4,11 @@ Webový projekt
 Testování popisku
 Soupiskapotřebných prací:
 
-Grafika -
+Grafika - Vytvoření/Sehnání obrázků, Úprava obrázků pro WEB
 
-Data -
+Data - Vymyšlení názvů produktů, 
 
-Scripty -
+Scripty/Frameworky - FullPage.js, Bootstrap
 
-WEB - 
- 
+WEB - HTML, CSS, Integrace skriptů
+
