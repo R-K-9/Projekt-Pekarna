@@ -3,7 +3,7 @@ Soupiska potřebných prací:
 
 Grafika - Vytvoření/Sehnání obrázků, Úprava obrázků pro WEB
 
-Data - Vymyšlení názvů produktů, 
+Data - Vymyšlení názvů produktů, struktura stránky
 
 Scripty/Frameworky - FullPage.js, Bootstrap
 
