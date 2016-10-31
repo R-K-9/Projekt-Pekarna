@@ -14,3 +14,4 @@ WEB - HTML, CSS, Integrace skriptů
 Adresa webu:              https://r-k-9.github.io/Projekt-Pekarna/
 
 Adresa dalšího hostingu:  http://pekarna.jakubrocek.cz
+
