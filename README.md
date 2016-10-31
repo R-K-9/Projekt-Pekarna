@@ -1,8 +1,5 @@
-# Projekt-Pekarna
-Webový projekt
-
-Testování popisku
-Soupiskapotřebných prací:
+# Pekarna vývoj webu
+Soupiska potřebných prací:
 
 Grafika - Vytvoření/Sehnání obrázků, Úprava obrázků pro WEB
 
